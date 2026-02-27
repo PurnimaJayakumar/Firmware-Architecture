@@ -1,2 +1,1 @@
-# Firmware-Architecture
-Studying Firmware Architecture for Embedded Systems
+A log on what I studied and status of the project and important files or links. 
